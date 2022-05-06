@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Fish
   m_EditorClassIdentifier: 
   id: 1
-  itemName: Curvina Golfina
-  icon: {fileID: 21300000, guid: 6a9d6e65d1ad2f242ac7af51e7564b8c, type: 3}
+  itemName: Pez Lisa
+  icon: {fileID: 21300000, guid: 8e11628ef38250d4da70a213e260d2a9, type: 3}
